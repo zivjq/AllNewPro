@@ -33,4 +33,7 @@
 			<td type="enum" format="羽毛球,篮球,足球" maxlength="30"/><!-- 爱好 -->
 		</tr>
 	</tbody>
+	<test>
+		故意冲突的
+	</test>
 </excel>
